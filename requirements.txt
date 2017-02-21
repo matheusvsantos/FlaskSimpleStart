@@ -1,0 +1,7 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+uwsgi
+psycopg2
+bs4
+requests
